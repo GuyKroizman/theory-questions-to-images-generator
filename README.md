@@ -4,3 +4,4 @@ I wanted our living room television to display (chromecast ambient mode) changin
 
 The input to the script is the file that one can downloaded from [here](https://data.gov.il/dataset/tqhe)
 The scripts parses the xml takes from it the questions and creaet images from them.
+The questions are in the style of american test, that is, there are four option to choose one correct answer.
